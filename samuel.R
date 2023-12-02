@@ -1,5 +1,5 @@
 library(tidyverse)
 
-data <- iris
+data <- iris ## komen
 
 dataset2 <- data("fruit")
